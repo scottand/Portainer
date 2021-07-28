@@ -8,7 +8,7 @@ https://www.home-assistant.io/installation/raspberrypi/#docker-compose
 - Allowing Conbee2 USB device to pass through from host to container
 - Ensuring config file is correctly referenced from outside of the container so image updates will not affect user settings/scripts etc.
 
-# Update Home Assitant image:
+# Update Home Assistant image:
 1. Open Portainer
 2. Go to 'Stacks'
 3. Open 'homeassistantgitversioned'
